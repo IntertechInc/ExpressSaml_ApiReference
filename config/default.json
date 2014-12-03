@@ -1,0 +1,7 @@
+{
+  "samlSettings": {
+    "thumbprint": "--PutYourThumbPrintHere--",
+    "audience": "--PutYourHostNameHere--"
+  },
+  "jwtKey": "--PutYourPresharedKeyHere--"
+}
